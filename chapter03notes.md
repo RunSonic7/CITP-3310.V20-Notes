@@ -58,3 +58,13 @@ FileName.cs
 ```
 ---
 ### Main function here
+### Displaying a Line of Text
+### Changing the Name of the App File
+When changing a file name in a Visual Studio project, always do so in Visual Studio. Changing file names outside the IDE can break the project and prevent it from executing.
+### Displaying a Single Line of Text with Multiple Statements
+### Displaying Multiple Lines of Text with a Single Statement
+### Escape sequence
+### String Interpolation
+### Adding Integers
+### Prompting the User for Input, Reading a Value into Variable
+### Arithmetic, Arithmetic Expressions in Straight-Line Form
