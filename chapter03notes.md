@@ -36,7 +36,7 @@ Every app consists of at least one class declaration that’s defined by you—t
 ```cs
 class Welcome1
 ```
-##### Example of a camelCase
+##### Example of a Camel Case
 ```cs
 void nameSomethingHere
 ```
@@ -56,3 +56,5 @@ A class declaration’s file name is usually the class name followed by the .cs 
 ```cs
 FileName.cs
 ```
+---
+### Main function here
